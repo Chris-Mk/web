@@ -1,2 +1,6 @@
 # web
-servlets, jsp, jsf and jpa
+- servlets
+- jsp
+- jsf
+- jpa
+- spring boot
